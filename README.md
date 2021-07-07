@@ -2,8 +2,8 @@
 
 <br />
 
-# About Me
-- 👋 Hi, I’m @khawar-ahmed [<img src="" alt="logo" width="34" />](#)
+# About Me | [<img src="images/logo.png" alt="logo" width="34" />](#)
+- 👋 Hi, I’m @khawar-ahmed 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
