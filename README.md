@@ -3,7 +3,7 @@
 <br />
 
 # About Me
-- 👋 Hi, I’m @khawar-ahmed
+- 👋 Hi, I’m @khawar-ahmed [<img src="" alt="logo" width="34" />](#)
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
