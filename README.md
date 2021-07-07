@@ -1,4 +1,4 @@
-[<img src="images/banner.png" width="100%" height="50%" />](#)
+[<img src="images/banner.png" width="80%"  />](#)
 
 <br />
 
