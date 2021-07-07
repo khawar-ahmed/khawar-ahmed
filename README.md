@@ -16,7 +16,7 @@
 [<img src="images/3.gif" width="200" height="200" />](#)
 [<img src="images/4.webp" width="200" height="200" />](#) -->
 
-<br />
+<!-- <br /> -->
 
 # Languages and Tools
 [<img src="language_icons/html.svg" alt="html" width="34" />](#)
