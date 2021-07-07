@@ -1,4 +1,5 @@
-![banner](images/banner.png)
+[<img src="images/banner.png" width="100%" />](#)
+
 <br />
 
 # About Me
