@@ -20,15 +20,15 @@
 <br />
 
 # Languages and Tools
-[<img src="language_icons/html.svg" alt="html" width="24" />](#)
-[<img src="language_icons/css.svg" alt="css" width="24" />](#)
-[<img src="language_icons/javascript.svg" alt="js" width="24" />](#)
-[<img src="language_icons/react.svg" alt="react" width="24" />](#)
-[<img src="language_icons/nodejs.svg" alt="node" width="24" />](#)
-[<img src="language_icons/angular.svg" alt="angular" width="24" />](#)
-[<img src="language_icons/python.svg" alt="python" width="24" />](#)
-[<img src="language_icons/django.svg" alt="django" width="24" />](#)
-[<img src="language_icons/flutter.svg" alt="flutter" width="24" />](#)
+[<img src="language_icons/html.svg" alt="html" width="34" />](#)
+[<img src="language_icons/css.svg" alt="css" width="34" />](#)
+[<img src="language_icons/javascript.svg" alt="js" width="34" />](#)
+[<img src="language_icons/react.svg" alt="react" width="34" />](#)
+[<img src="language_icons/nodejs.svg" alt="node" width="34" />](#)
+[<img src="language_icons/angular.svg" alt="angular" width="34" />](#)
+[<img src="language_icons/python.svg" alt="python" width="34" />](#)
+[<img src="language_icons/django.svg" alt="django" width="34" />](#)
+[<img src="language_icons/flutter.svg" alt="flutter" width="34" />](#)
 
 <br />
 
