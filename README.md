@@ -33,9 +33,9 @@
 <br />
 
 # Follow Me
-[<img src="social_icons/facebook.svg" alt="Facebook" width="24" />](https://www.facebook.com/profile.php?id=100052312632023)
-[<img src="social_icons/fm.svg" alt="fm" width="24" />](https://www.facebook.com/messages/t/100052312632023/)
-[<img src="social_icons/twitter.svg" alt="Github" width="24" />](https://twitter.com/KhawarA06976897)
-[<img src="social_icons/linkedin.svg" alt="LinkedIn" width="24" />](https://www.linkedin.com/in/khawar-ahmed-91468b215/)
-[<img src="social_icons/github.svg" alt="Github" width="24" />](https://www.github.com)
+[<img src="social_icons/facebook.svg" alt="Facebook" width="34" />](https://www.facebook.com/profile.php?id=100052312632023)
+[<img src="social_icons/fm.svg" alt="fm" width="34" />](https://www.facebook.com/messages/t/100052312632023/)
+[<img src="social_icons/twitter.svg" alt="Github" width="34" />](https://twitter.com/KhawarA06976897)
+[<img src="social_icons/linkedin.svg" alt="LinkedIn" width="34" />](https://www.linkedin.com/in/khawar-ahmed-91468b215/)
+[<img src="social_icons/github.svg" alt="Github" width="34" />](https://www.github.com)
 
