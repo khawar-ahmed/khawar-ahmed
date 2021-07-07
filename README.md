@@ -1,6 +1,6 @@
 [<img src="images/banner2.png" width="100%"  />](#)
 
-<br />
+<!-- <br /> -->
 
 # About Me
 - 👋 Hi, I’m @khawar-ahmed 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 
-<br/>
+<!-- <br/> -->
 
 
 <!-- [<img src="images/1.webp" width="200" height="200" />](#)
@@ -29,7 +29,7 @@
 [<img src="language_icons/django.svg" alt="django" width="34" />](#)
 [<img src="language_icons/flutter.svg" alt="flutter" width="34" />](#)
 
-<br />
+<!-- <br /> -->
 
 # Follow Me
 [<img src="social_icons/facebook.svg" alt="Facebook" width="34" />](https://www.facebook.com/profile.php?id=100052312632023)
