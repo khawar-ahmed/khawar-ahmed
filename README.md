@@ -12,10 +12,10 @@
 <br />
 
 
-[<img src="images/1.webp" width="200" height="200" margin-left="5%" />](#)
-[<img src="images/2.webp" width="200" height="200" margin-left="5%" />](#)
-[<img src="images/3.gif" width="200" height="200" margin-left="5%" />](#)
-[<img src="images/4.webp" width="200" height="200" margin-left="5%" />](#)
+[<img src="images/1.webp" width="205" height="200" />](#)
+[<img src="images/2.webp" width="205" height="200" />](#)
+[<img src="images/3.gif" width="205" height="200" />](#)
+[<img src="images/4.webp" width="205" height="200" />](#)
 
 <br />
 
