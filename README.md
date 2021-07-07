@@ -18,7 +18,7 @@
 
 <!-- <br /> -->
 
-# Languages and Tools
+> # Languages and Tools
 [<img src="language_icons/html.svg" alt="html" width="34" />](#)
 [<img src="language_icons/css.svg" alt="css" width="34" />](#)
 [<img src="language_icons/javascript.svg" alt="js" width="34" />](#)
@@ -31,7 +31,7 @@
 
 <!-- <br /> -->
 
-# Follow Me
+> # Follow Me
 [<img src="social_icons/facebook.svg" alt="Facebook" width="34" />](https://www.facebook.com/profile.php?id=100052312632023)
 [<img src="social_icons/fm.svg" alt="fm" width="34" />](https://www.facebook.com/messages/t/100052312632023/)
 [<img src="social_icons/twitter.svg" alt="Github" width="34" />](https://twitter.com/KhawarA06976897)
